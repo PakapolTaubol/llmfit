@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.11](https://github.com/AlexsJones/llmfit/compare/v1.1.10...v1.1.11) (2026-08-18)
+
+
+### Bug Fixes
+
+* **fit:** stop flagging pre-quantized models that fit as insufficient ([#898](https://github.com/AlexsJones/llmfit/issues/898)) ([e1379a9](https://github.com/AlexsJones/llmfit/commit/e1379a96df718b033d86fa93b385da8a9d4e707a))
+* **providers:** match every K-quant and I-quant GGUF variant ([#873](https://github.com/AlexsJones/llmfit/issues/873)) ([2042c3a](https://github.com/AlexsJones/llmfit/commit/2042c3a9da65c08b32d5ae81e46a343fd28964b4))
+
 ## [1.1.10](https://github.com/AlexsJones/llmfit/compare/v1.1.9...v1.1.10) (2026-08-17)
 
 
